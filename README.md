@@ -1,4 +1,5 @@
 digisys_miniproject
 ===================
 
-miniproject for digital systems
+A mini-project(Simulation in Verilog) under the Digital Systems Course.
+
